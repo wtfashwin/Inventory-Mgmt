@@ -1,5 +1,5 @@
 # inventory-management
-This is a inventory management system
+This is a inventory management system built in 6hr hackathon on hackerearth.
 
 # How to Setup
 1. Clone Project
